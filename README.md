@@ -127,9 +127,3 @@ Example console output:
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-## Author
-
-**Dev Portal**
-Follow for more backend-focused tutorials and projects.
-* LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/nakul-mitra-microservices-spring-boot-java-postgresql/)
-* YouTube: [Dev Portal](https://www.youtube.com/@DevPortal2114)
